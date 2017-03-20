@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        echo"Pepito";
+        echo "© Copyright 2017"
         ?>
     </body>
 </html>
